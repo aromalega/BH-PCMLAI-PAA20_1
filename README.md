@@ -51,29 +51,33 @@ I'm using the below modelling techniques for this analysis
 - Used an ensemble model like
     - Gradient Boosting Regression
 
-I've also performed Grid Search with Cross-Validation on each of these models
+I've also performed Grid Search with Cross-Validation on each of these models and below are the results
 
 ![Prediction 1](https://github.com/user-attachments/assets/aebb6df4-8489-4139-a159-fd5c5035605d)
 
 
 #### Results
 Mean Suared Error Comparision
+
 ![MSE](https://github.com/user-attachments/assets/0487bf86-a96c-4eaa-a1f5-7e5c3ab6918a)
 
 Based on the MSE Comparision of models for the given dataset, Gradient Boosting performs better than the other models, as it has least MSE
 
 Train Time Comparision
+
 ![Train Time](https://github.com/user-attachments/assets/0b5b269a-75bc-420f-822d-904502cc17b9)
 
 Based on the Train Time Comparision of models for the given dataset, Gradient Boosting has taken more time
 According to my research Gradient Boosting Regression model gave the most accurate results
 
 Mean Absolute Error Comparision
+
 ![MAE](https://github.com/user-attachments/assets/9c4d7538-79e2-4468-a282-f6600e27cfca)
 
 Based on the MAE Comparision of models for the given dataset, Gradient Boosting performs better than the other models, as it has least MAE
 
 R-suared Comparision
+
 ![R-squared](https://github.com/user-attachments/assets/bb5db71b-5427-4f25-8eae-8ddfea081fef)
 
 Based on the R-squared Comparision of models for the given dataset, Gradient Boosting performs better than the other models. As higher R-squared value means that the model explains a larger proportion of the variability in the dependent variable. This suggests that the model is better at predicting the outcome. 
