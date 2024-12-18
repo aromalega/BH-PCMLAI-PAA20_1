@@ -43,7 +43,7 @@ I'm using the below modelling techniques for this analysis
     - Used regularization models like 
         - Ridge Regression
         - Lasso Regression
-    - Used another model like 
+    - Used another supervised model like 
         - Decision Tree Regression
     - Used an ensemble model like
         - Gradient Boosting Regression
