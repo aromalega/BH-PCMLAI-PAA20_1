@@ -5,7 +5,10 @@ Predicting the patients length of stay in a hospital
 Aroma Reddy Lega
 
 #### Executive summary
-I've taken a dataset that has 100k data points on patients admitted into hospital, indicators of their health condition and how long they were admitted in the hospital. Based on this dataset I want to predict the length of stay of a patient. I've cleaned the dataset by checking for null values, removing columns which are not required and then scaled it. I have used pricipal component analysis to reduce the dimentionality of the data. I've used multiple modelling techniques to predict the length of stay of patient but found that Gradient Boosting has the best results even though its a bit time consuming.
+The dataset has 100k data points on patients admitted into hospital, indicators of their health condition and how long they were admitted in the hospital. Based on this dataset we should predict the length of stay of a patient. 
+- Cleaned the dataset by checking for null values, removing columns which are not required and then scaled it.
+- Used pricipal component analysis to reduce the dimentionality of the data.
+- Then, used multiple modelling techniques to predict the length of stay of patient but found that Gradient Boosting has the best results even though its a bit time consuming.
 
 #### Rationale
 If a hospital is able to predict the patients length of stay they'll be able to preplan
