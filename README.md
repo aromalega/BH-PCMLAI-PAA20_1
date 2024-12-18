@@ -57,7 +57,7 @@ I've also performed Grid Search with Cross-Validation on each of these models an
 
 
 #### Results
-Mean Suared Error Comparision
+Mean Squared Error Comparision
 
 ![MSE](https://github.com/user-attachments/assets/0487bf86-a96c-4eaa-a1f5-7e5c3ab6918a)
 
@@ -76,7 +76,7 @@ Mean Absolute Error Comparision
 
 Based on the MAE Comparision of models for the given dataset, Gradient Boosting performs better than the other models, as it has least MAE
 
-R-suared Comparision
+R-squared Comparision
 
 ![R-squared](https://github.com/user-attachments/assets/bb5db71b-5427-4f25-8eae-8ddfea081fef)
 
