@@ -41,15 +41,15 @@ Scaled the dataset and did Principal Component Analysis to reduce the dimentiona
 
 #### Methodology
 I'm using the below modelling techniques for this analysis
-    - Used a simple model like 
-        - Linear Regression
-    - Used regularization models like 
-        - Ridge Regression
-        - Lasso Regression
-    - Used another supervised model like 
-        - Decision Tree Regression
-    - Used an ensemble model like
-        - Gradient Boosting Regression
+- Used a simple model like
+    - Linear Regression
+- Used regularization models like
+    - Ridge Regression
+    - Lasso Regression
+- Used another supervised learning model like
+    - Decision Tree Regression
+- Used an ensemble model like
+    - Gradient Boosting Regression
 
 I've also performed Grid Search with Cross-Validation on each of these models
 
